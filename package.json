@@ -1,0 +1,25 @@
+{
+  "name": "simon_game_with_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsTheBravo/simon_game_with_tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsTheBravo/simon_game_with_tests/issues"
+  },
+  "homepage": "https://github.com/ItsTheBravo/simon_game_with_tests#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "jest-environment-jsdom": "^29.5.0"
+  }
+}
